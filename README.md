@@ -1,4 +1,4 @@
-# CEAZA-M1
+# WELLCOME TO CEAZA-M1
 Wireless communication and memory backup expansion board for CEAZA MEGA.
 
 This design is a expansion board for CEAZA MEGA datalogger, which add the local wireless comumunication capability to the system.
