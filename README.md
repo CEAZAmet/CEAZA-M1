@@ -1,6 +1,7 @@
 # Welcome to CEAZA-M1!
 Wireless communication and memory backup expansion board for CEAZA MEGA.
 
+
 ## What is the CEAZA M1?
 
 This design is an expansion board for CEAZA MEGA datalogger, which add the local wireless comumunication capability to the system.
@@ -21,8 +22,14 @@ This board is pin compatible and should be connected to the CEAZA MEGA system to
 A comprehensive documentation for well undertand, use or modify the CEAZA M1 board is available in our Wiki. In adition, we share with you the schematics diagrams, adns Arduino example codes.
 
 ## Contact and support
+For all kinds of inquiries, please contact me to my e-mail address: adrian.gallardo@ceaza.cl
 
 # Quickstart guide
+Install the M1 board in the CEAZA MEGA's bottom, make certain connection throuhg the boards by three 2 x 10 pin header terminals is rigth. 
+Attach GNSS and LoRa antennas to the board, connect the power source 7 to 14 Vdc to the system.
+Connect the CEAZA MEGA main board system to the host PC by mini-USB connector, open the Arduino ide software, select the Arduino Mega board and the correspondign COM port.
+
+Open any of examples scketches and upload to the board.
 
 # Contributing
 
