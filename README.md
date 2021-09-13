@@ -39,4 +39,5 @@ You are welcome to contribute to the development or improvement of M1 hardware d
 # Licensing
 
 # Disclaimer
+Use M1 board and examples code at your own risk. We do not encourage any malicious use of our board.
 
