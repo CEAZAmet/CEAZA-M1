@@ -1,6 +1,6 @@
 # Welcome to CEAZA-M1!
 Wireless communication and memory backup expansion board for CEAZA MEGA.
-
+![alt text](/Images/M1_Front.jpg?raw=true "CEAZA M1 Board")
 
 ## What is the CEAZA M1?
 
