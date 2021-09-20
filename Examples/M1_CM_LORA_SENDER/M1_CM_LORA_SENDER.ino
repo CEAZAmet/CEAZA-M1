@@ -27,10 +27,10 @@
 #define LED_PIN         13
 
 // LoRa setup definition
-#define LORA_FREC 433E6       //(`433E6`, `866E6`, `915E6`)
-#define LORA_SF 9             //6 to 12
-#define LORA_TX_POW 18        //2 to 20
-#define LORA_BANDWIDTH 125E3  //`7.8E3`, `10.4E3`, `15.6E3`, `20.8E3`, `31.25E3`, `41.7E3`, `62.5E3`, `125E3`, and `250E3`.
+#define LORA_FREC       433E6       //(`433E6`, `866E6`, `915E6`)
+#define LORA_SF         9             //6 to 12
+#define LORA_TX_POW     18        //2 to 20
+#define LORA_BANDWIDTH  125E3  //`7.8E3`, `10.4E3`, `15.6E3`, `20.8E3`, `31.25E3`, `41.7E3`, `62.5E3`, `125E3`, and `250E3`.
 
 // Message counter
 int counter = 0;
