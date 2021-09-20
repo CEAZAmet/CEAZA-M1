@@ -17,14 +17,14 @@
 #include "LowPower.h"
 
 // Pin definition
-#define M1_3V3_EN_PIN 35
+#define M1_3V3_EN_PIN   35
 #define M1_VLORA_EN_PIN 33
-#define LORA_SS_PIN 22
-#define LORA_RESET_PIN 23
-#define LORA_DIO0_PIN 2
-#define FLASH_SS_PIN 32
-#define SD_SS_PIN 53
-#define LED_PIN 13
+#define LORA_SS_PIN     22
+#define LORA_RESET_PIN  23
+#define LORA_DIO0_PIN   2
+#define FLASH_SS_PIN    32
+#define SD_SS_PIN       53
+#define LED_PIN         13
 
 // LoRa setup definition
 #define LORA_FREC 433E6       //(`433E6`, `866E6`, `915E6`)
