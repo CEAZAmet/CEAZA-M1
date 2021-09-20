@@ -1,5 +1,5 @@
 /*
- * This sketch is an application example of LoRa.h and LowPwer.h application with a 433MHz LoRa module
+ * This sketch is an application example of LoRa.h and LowPwer.h with a 433MHz LoRa module
  * for data transmitting and go to sleep in CEAZA MEGA + M1 system
  * Is highly recommend do not use the M1 module without LoRa and GNSS antenas connected
  * to avoid damage the respective modules.
