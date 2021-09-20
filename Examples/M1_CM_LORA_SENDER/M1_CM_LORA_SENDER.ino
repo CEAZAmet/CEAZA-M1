@@ -10,7 +10,7 @@
  * and LowPower library
  * https://github.com/rocketscream/Low-Power
  * 
- * Remember you have to select the "Arduino Mega or Mega2560" board for CEAZA MEGA
+ * Remember to select the "Arduino Mega or Mega2560" board for CEAZA MEGA
  */
 #include <SPI.h>
 #include <LoRa.h>
