@@ -6,7 +6,7 @@ Wireless communication and memory backup expansion board for CEAZA MEGA.
 
 This design is an expansion board for CEAZA MEGA datalogger, which add the local wireless comumunication capability to the system.
 The board Design integrates:
-* An Ra-02 Ai-Thinker 410-525MHz LoRa Radio module.
+* An Ra-02 Ai-Thinker for 410-525MHz or Ra-01SH for 803MHz~930MHz LoRa Radio module.
 * An ATGM336H-5N-31 GNSS GPS BDS positioning and navigation module.
 * An ESP-12E WiFi module.
 * A W25N01GVZEIG 1G-bit serial nand flash memory for redundant data storage.
